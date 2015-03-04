@@ -1,0 +1,6 @@
+def reverse(li):
+  if len(li)==1:
+    return li
+  else:
+    return reverse()
+

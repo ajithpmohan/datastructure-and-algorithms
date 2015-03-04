@@ -16,7 +16,6 @@ def base_converter(dec_number, base):
   
   return new_string
 
-print(base_converter(1453, 16))
 print(base_converter(25, 2))
 print(base_converter(332, 16))
 print(base_converter(25, 8))
